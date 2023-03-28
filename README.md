@@ -1,2 +1,2 @@
 # replica_homepage
-https://terecodes-flix-clone.netlify.app/
+https://app.netlify.com/sites/starlit-fox-68b06f/overview
